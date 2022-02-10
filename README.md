@@ -4,7 +4,11 @@
 To be completed in the last module of the semester.
 
 ### Information System Components
-
+### The first component would be hardware, This refers to the physical device that you are making a purchase on and the physical server that the Amazon information is stored on
+###  The second component would be software, this refers to the Amazon app you are using on your device as well as the function of the payment method being processed by a bank. This creates a user friendly experience when on Amazons website allowing for an interface to provide all of the items you need.
+### The third component would be data, this is all of the information stored on the physical amazon server, including items up for sale, pricing, number of users, and much more. This allows the website to display how many of one item is in stock and the estimated shipping time of said item.
+### People is the fourth component, obviously without this component there would be no one to buy the product or update the website when the time comes. People can refer to the actual consumers using the website. Or the developers working to make the space more user friendly.
+### Process being the final piece of the puzzle, the process essentially takes the information you have such as ip ect, sends it to amazon and the website responds back. This allows you to look at items on the website and for them to save your account for easy future shopping. After you want to purchase an item, the website allows you to enter payment method which is then sent to amazon and finally the bank for verification. After this said process your item will be shipped and will arrive according to the websites said date. All of the previous components tie into this process accordingly.
 ### Software
 #### GitHub
 #### Screen Capture
