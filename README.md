@@ -12,6 +12,7 @@ To be completed in the last module of the semester.
 ### Software
 #### GitHub
 #### Screen Capture
+### The software used to screen capture my work is native to Windows OS, The software is windows snipping tool and it is used to essentially cut an image out of the current screen you are on. The name of my file is ScreenCapture. The file size is 45.7 kb, and the software association is a PNG. This is a type of extension that most images uses and it is a file that windows can natively read. 
 #### Application, Utility, and Operating Systems
 #### ERP
 #### Virtualization
