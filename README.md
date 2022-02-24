@@ -27,11 +27,11 @@ To be completed in the last module of the semester.
 #### Artificial Intelligence
 
 ### Career Exploration
-#### Bureau of Labor Statistics
-#### Handshake
-#### Certifications, Certificates, and Degrees
-#### Industry Associations and Student Organizations
+#### Bureau of Labor Statistics  I found that the average pay for Computer Hardware Engineers is around 58$ per hour, They design and test computer components.
+#### Handshake I found many internships that involve computer hardware, this website allows me to find many coops for furthering my degree and experience
+#### Certifications, Certificates, and Degrees I think that certifications are an amazing way to represent your knowledge in a certain field. The certifications are an essential way to help obtain more knoweledge as well. The certification I would be interested in is CCNA or Comptia, these certs help show that you have extensive knowledge in the general operation and repair of computers as well as other related devices.
 
+#### Industry Associations and Student Organizations I think the Cybersecurity club would be an amazing way to gain and share knowledge with others on how to operate a computer and keep others devices running safely. This club goes into detail on the internet security side of things and this would be great information to have for my degree.
 ### Computer Architecture
 #### CPU
 #### Gates and Circuits
