@@ -37,8 +37,11 @@ To be completed in the last module of the semester.
 #### Gates and Circuits The truth table is essentially a list of all of the values that a operation can use. Top row of the table will represent variables and different combinations, as the table goes on the combinations get increasingly difficult.
 The difference between an AND gate and an OR gate is that the AND gate gives true outputs when both inputs are considered true. The OR gate gives a true output if only one of the inputs are true.
 #### IEEE The Institute of Electrical and Electronics engineers purpose is to create a better environment for those that use technology for our own benefit, their ethics limit people planning to use the internet for malintent. This is essentially an internet saftey organization that is dedicated to using the internet in a humane way than can create solutions and benefits to everyone who uses it.
-#### Storage
-#### Memory
+#### Storage Latency is the time that the storage device has to wait before it can read the data, this latency is the time before a storage procedure can be accomplished. Transfer rate is the speed of which the data being read can be received by other devices in the computer such as the CPU. 
+Solid state hard drives are superior to traditional drives. There is no moving parts therefore creating much less latency with a faster transfer rate. SSDs are more expensive but worth it if you want a faster machine. 
+#### Memory Increasing ram is a way to make your machine faster, this ram is Volatile meaning that the information stored on it isnt kept when the machine loses power. This ram is used as a short term storage device for applications, giving your system more access to this ram means that it has more storage for its data, ram also runs at a much faster rate than hard drives do. Therefore ram is used for these applications to have quick access to that data. 
+32 bit paths can only access a very little amount of RAM about 4gb, whereas 64 bit can access a substantial amount more. This 64 bit path creates ram that is much faster and has access to an abundance of it if the computer has it. 
+Ram is volatile while HDDs are not meaning that on a hard drive data is retained. Data on ram can be accessed much faster than an HDD therefore making it better for applications to run smoothly.
 #### Data Representation
 #### Operating Systems
 
