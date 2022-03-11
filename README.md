@@ -33,9 +33,10 @@ To be completed in the last module of the semester.
 
 #### Industry Associations and Student Organizations I think the Cybersecurity club would be an amazing way to gain and share knowledge with others on how to operate a computer and keep others devices running safely. This club goes into detail on the internet security side of things and this would be great information to have for my degree.
 ### Computer Architecture
-#### CPU
-#### Gates and Circuits
-#### IEEE
+#### CPU The CPU is the brains of the computer, thiks cpu allows us to be able to create inputs and solve problems to then create an output that we can see. The CPU and ALUs relationship is that the CPU is meant to handle instructions and commands, where as the ALU is the one carrying out the actual math or problem solving. The CPU however is required first to instruct the ALU.
+#### Gates and Circuits The truth table is essentially a list of all of the values that a operation can use. Top row of the table will represent variables and different combinations, as the table goes on the combinations get increasingly difficult.
+The difference between an AND gate and an OR gate is that the AND gate gives true outputs when both inputs are considered true. The OR gate gives a true output if only one of the inputs are true.
+#### IEEE The Institute of Electrical and Electronics engineers purpose is to create a better environment for those that use technology for our own benefit, their ethics limit people planning to use the internet for malintent. This is essentially an internet saftey organization that is dedicated to using the internet in a humane way than can create solutions and benefits to everyone who uses it.
 #### Storage
 #### Memory
 #### Data Representation
