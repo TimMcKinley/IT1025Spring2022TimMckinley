@@ -42,11 +42,14 @@ Solid state hard drives are superior to traditional drives. There is no moving p
 #### Memory Increasing ram is a way to make your machine faster, this ram is Volatile meaning that the information stored on it isnt kept when the machine loses power. This ram is used as a short term storage device for applications, giving your system more access to this ram means that it has more storage for its data, ram also runs at a much faster rate than hard drives do. Therefore ram is used for these applications to have quick access to that data. 
 32 bit paths can only access a very little amount of RAM about 4gb, whereas 64 bit can access a substantial amount more. This 64 bit path creates ram that is much faster and has access to an abundance of it if the computer has it. 
 Ram is volatile while HDDs are not meaning that on a hard drive data is retained. Data on ram can be accessed much faster than an HDD therefore making it better for applications to run smoothly.
-#### Data Representation
+#### Data Representation Decimals are based off of the number 10, this allows for tenth parts and powers of 10, Binary is mathematical useage of 1 and 2, therefore making it very easy for a computer to read and calculate vs decimal. Hexidecimal is a base 16 these represent 4 bit binary sequences that use 0-9 and A-F 
+198 To binary is simple, divide by 2 and take the remainders of each if not evenly divisable those are equal to 1, for example 3/2 is not a whole number therefore 1 is the answer, If 4/2 is 2 then none is left over making it 0.
+Binary to decimal is as simple as multiplying each digit to the corresponding power of 2. This gives you a pattern of numbers that you add and then that is your decimal number.
+#ab0fff This color would be problematic because it is impossible to read on this because it is very bright. This would be hard to interpret data on that color or using that color. The readability of this color should be considered, it is easier to read darker colors such as black. 
 #### Operating Systems
 
 ### Networking
-#### Data Transmission
+#### Data Transmission 
 #### Hardware
 #### Topologies and Types of Networks
 #### Protocols
