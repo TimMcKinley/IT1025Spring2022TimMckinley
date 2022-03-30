@@ -46,7 +46,7 @@ Ram is volatile while HDDs are not meaning that on a hard drive data is retained
 198 To binary is simple, divide by 2 and take the remainders of each if not evenly divisable those are equal to 1, for example 3/2 is not a whole number therefore 1 is the answer, If 4/2 is 2 then none is left over making it 0.
 Binary to decimal is as simple as multiplying each digit to the corresponding power of 2. This gives you a pattern of numbers that you add and then that is your decimal number.
 #ab0fff This color would be problematic because it is impossible to read on this because it is very bright. This would be hard to interpret data on that color or using that color. The readability of this color should be considered, it is easier to read darker colors such as black. 
-#### Operating Systems
+#### Operating Systems Going into the Command prompt using the command mkdir directory_IT1025Folder to create a directory on my desktop. 
 
 ### Networking
 #### Data Transmission 
