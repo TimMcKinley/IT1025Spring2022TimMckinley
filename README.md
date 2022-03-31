@@ -22,7 +22,9 @@ To be completed in the last module of the semester.
 #### Python
 #### Python is a very simle coding laguage using mostly english as its form of code. This allows for very simple programming allowing for more attention on problem solving rather than other forms of syntax and structure. Interpretated laguage will execute commands without previous software telling it what the command means. Compiled language requires a program that specifies what each line of code means and how to execute it.
 #### File names Python1 and Python2 are quick examples of how the programming language works. Simple text is interpreted as a command
-#### Graphic Modeling and Rendering
+#### Graphic Modeling and Rendering Vector images are digital art and shapes created by a formula, where as raster images are composed of many pixels.
+Lossy files are not good for web developers because they can lose data when being saved, loseless ensures that all the data is saved in its original form
+GIFs can be animated. JPEGs are good for retaining color and variety of color saturation, PNGs are for images that need sharp contrast.
 #### File Compression
 #### Artificial Intelligence
 
