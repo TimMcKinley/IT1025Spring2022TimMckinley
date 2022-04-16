@@ -57,8 +57,8 @@ Binary to decimal is as simple as multiplying each digit to the corresponding po
 #### Protocols
 
 ### Cybersecurity and Encryption
-#### Security Triad
-#### Caesar and Polyalphabetic Ciphers
+#### Security Triad The first being confidentiality, this is a huge part of medicine nowadays, everything about you whether it be sensitive information or not is meant to be confidential. No one can release your information but you. This creates a safe feeling for those seeking help in the medical world. Integrity is knowing that the systems keeping together that confidential information are going to hold up. This overall contributes to the saftey of our file systems keeping our medical records safe such as MyChart. Finally availalabillity, This is making sure that the systems are fully protected but retially available when the person needs them. This contributes to the infrastructure of our medical file keeping systems.
+#### Caesar and Polyalphabetic Ciphers While doing this part "Ayp-J ohz h Jfilyzljbypaf Jlyapmpjhal." is encrypted into ceasars ciper. Caesars cipher is a concept of encrypting language by using shifitng, each letter used is replaced by a letter slighlty furhter in the alphabet. This allows for messages to be encrypted with no way of telling what it is until decoded. Polyalphabetic encryption uses multiple substitution to encrypt messages.
 #### Public and Private Key Encryption
 #### Brute-Force Attacks
 
