@@ -55,6 +55,9 @@ Binary to decimal is as simple as multiplying each digit to the corresponding po
 #### Hardware
 #### Topologies and Types of Networks
 #### Protocols
+IP address - An Ip is essentially a devices own name that is used to identify it on a internet or network. Ipv4 vs IPv6 is mostly dependent on address size, IPV4 uses a 32 bit address and IPV6 uses a 128 bit hexadecimal
+ICANN - Is responsible for maintaining security of the namespaces on the internet, This gives security that your IP is protected.
+HTTP - Is used for transfering documents from one to another, this allows for web servers and web browsers to communicate. HTTP 1.0 and 1.1 are protocols HTTP uses to ensure your data is secure while still allowing the browser and server to talk to each other.
 
 ### Cybersecurity and Encryption
 #### Security Triad The first being confidentiality, this is a huge part of medicine nowadays, everything about you whether it be sensitive information or not is meant to be confidential. No one can release your information but you. This creates a safe feeling for those seeking help in the medical world. Integrity is knowing that the systems keeping together that confidential information are going to hold up. This overall contributes to the saftey of our file systems keeping our medical records safe such as MyChart. Finally availalabillity, This is making sure that the systems are fully protected but retially available when the person needs them. This contributes to the infrastructure of our medical file keeping systems.
