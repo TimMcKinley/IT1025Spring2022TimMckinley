@@ -67,6 +67,7 @@ HTTP - Is used for transfering documents from one to another, this allows for we
 
 ### Internet Programming
 #### Components of a URL
+Scheme - HTTPS   Domain - WWW.amazon.com    Top level domain - .edu    default page - result of a search   parameters - no file path anchor - specific location on a page. 
 #### World Wide Web Consortium 
 Tim Berners-Lee was the creator of W3C, the role of this was to create standards for the internet to improve security and reassurance of data safety and improve the quality of the web.
 HTML - This standard is important because it is a language that all our computers use, this is used to create web pages, surf the web, develop games and so many more, that is why it is so important.
