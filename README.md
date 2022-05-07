@@ -26,6 +26,8 @@ To be completed in the last module of the semester.
 Lossy files are not good for web developers because they can lose data when being saved, loseless ensures that all the data is saved in its original form
 GIFs can be animated. JPEGs are good for retaining color and variety of color saturation, PNGs are for images that need sharp contrast.
 #### File Compression
+The purpose of file compression is to take large groups of files and "compress" them into a folder to use up less room. This allows for more storage without needing access to the file. When you do need access you have to unzip the file.
+My file uncompressed was 12.5kb, when compressed the file only uses about 2kb. I expect the differential would be much more for a jpeg considering that jpegs take up more storage. 
 #### Artificial Intelligence
 
 ### Career Exploration
