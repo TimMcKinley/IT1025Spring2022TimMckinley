@@ -94,8 +94,20 @@ This means to create an object.
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
+SQL and noSql, SQL can be scaled vertically where as noSQL is horizontal.
+Velocity- Is the speed at which data is created and transported.
+Veracity- The accuracy and reliablility of data
+Volume- The shear amount of data
+Variety - The different types of data being stored.
+
 #### Data and Business Decisions
-#### The relational model and Normalization
+Better database allows for a more tailored experience for customers
+Creates better inventory accuarcy 
+Respond and understand to outlier events
+
+
+#### The Relational Model and Normalization
+Alot of traffic could be from foreign countries so it is essential that data can be recieved even if it is not in english
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
