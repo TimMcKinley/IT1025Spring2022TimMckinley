@@ -77,6 +77,13 @@ HTML - This standard is important because it is a language that all our computer
 ### Software Development
 #### Algorithms
 #### Object Oriented Concepts
+The attributes of the shark class are the two sharks
+The methods of the shark class are swimming and being awesome.
+The constructer is used to initialize the methods of the class.
+A object is a collection of data, where as a class is where all of the details about that object are stored.
+This means to create an object.
+
+
 
 ### Database Systems
 #### SQL, NoSQL, and Big Data Technologies
