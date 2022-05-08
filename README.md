@@ -82,6 +82,13 @@ The methods of the shark class are swimming and being awesome.
 The constructer is used to initialize the methods of the class.
 A object is a collection of data, where as a class is where all of the details about that object are stored.
 This means to create an object.
+    sammy = Shark("Sammy") and     def __init__(self, name): were used to instantiate the objects.
+    Where one class takes the attributes and methods that the other class uses.
+    **UML** My diagram shows the process of calling the sharks and the code needed to create a class.
+    
+    
+
+
 
 
 
