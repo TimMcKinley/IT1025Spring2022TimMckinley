@@ -111,6 +111,12 @@ Alot of traffic could be from foreign countries so it is essential that data can
 #### SQL Injections
 
 ### Legal and Ethical Responsibilities in Computing
+The purpose of this being created is to give credit where credit is due, you may not use others resources without authorization and or citing your work. ACM uses this to create a motivaitonal guide for people looking to be computer professionals or that already are one.
+It is important because someone else could steal your information and copyright it for themselves therefore denying you credit.
+COPPA - This keeps children under 13 protected on certain sites.
+FERPA - THis allows parents access to there childrens education records 
+HIPPA -HIPPA is used to protect medical information about a patient, none of there info shall be disclosed to anyone unless consented by said patient.
+
 
 ## Conclusion
 To be completed in the last module of the semester.
